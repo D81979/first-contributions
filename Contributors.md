@@ -357,7 +357,7 @@
 - [tuioe](https://github.com/tuioe5679)
 - [Snushev](https://github.com/snushev)
 - [cloud-whisperer](https://github.com/cloud-whisperer)
-- [Disha520](https://github.com/Disha520)
+- [Disha Padsala](https://github.com/D81979)
 - [Priyanshu Walia](https://github.com/priyanshuwalia)
 - [Daniel Guo](https://github.com/DiiGii)
 - [Farhan Ilyas](https://github.com/Farhan2001M)
